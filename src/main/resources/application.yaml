@@ -1,0 +1,6 @@
+spring :
+  data :
+    mongodb :
+     uri : mongodb+srv://admin:Renuka@vamshhi.wwggoyg.mongodb.net/?retryWrites=true&w=majority
+     database : linkshortner
+
